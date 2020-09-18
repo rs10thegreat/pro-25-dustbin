@@ -9,7 +9,7 @@ var ground,box1,box2,box3,paper;
 var dustbinImg;
 
 function Preload(){
-	dustbinImg = loadImage("sprites/dustbingreen.png");
+	dustbinImg = loadImage("dustbingreen.png");
 }
 
 function setup() {
