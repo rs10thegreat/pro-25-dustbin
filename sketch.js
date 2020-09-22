@@ -30,8 +30,8 @@ function draw() {
   Engine.update(engine);
   background(255);
   
-  //imageMode(CENTER);
-  //image(dustbinImg,50,50,0,00);
+  imageMode(CENTER);
+  image(dustbinImg,100,50,20,20);
 
   ground.display();
   box1.display();
