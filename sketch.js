@@ -8,7 +8,7 @@ var engine,world;
 var ground,box1,box2,box3,paper;
 var dustbinImg;
 
-function Preload(){
+function preload(){
 	dustbinImg = loadImage("dustbingreen.png");
 }
 
