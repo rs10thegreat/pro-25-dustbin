@@ -31,7 +31,7 @@ function draw() {
   background(255);
   
   imageMode(CENTER);
-  image(dustbinImg,100,50,20,20);
+  image(dustbinImg,700,600,100,100);
 
   ground.display();
   box1.display();
